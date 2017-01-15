@@ -4,3 +4,8 @@ def test
   c = 3
   a + b + c
 end
+
+def test2
+ d = 1
+ d
+end
