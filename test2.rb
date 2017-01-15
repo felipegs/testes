@@ -9,3 +9,8 @@ def test2
  d = 1
  d
 end
+
+def test3
+ e = 1
+ e
+end
