@@ -14,3 +14,8 @@ def test3
  e = 1
  e
 end
+
+def test4
+ f = 1
+ f
+end
